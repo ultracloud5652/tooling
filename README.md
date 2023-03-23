@@ -73,4 +73,4 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-## *Checking out Jenkins for real*
+## *I have completely Installed jenkins, deployed three web servers, and a load balancer*
